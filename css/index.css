@@ -541,6 +541,10 @@ ul {
         width: 100%;
     }
 
+    .testimonial-image-1 {
+        width: 100%;
+    }
+
     .book {
         margin-top: 69px;
         margin-left: 10px;
@@ -549,4 +553,36 @@ ul {
     .creative-solutions {
         margin-top: 50px;
     }
+}
+
+@media all and (max-width: 576px) {
+    .footer-logo {
+        position: relative;
+        left: 50%;
+        transform: translateX(-50%);
+    }
+}
+
+@media all and (min-width: 576px) {
+    .story-container,
+    .description {
+    width: 475px;
+    }
+
+    .creative-subsection-1 .description {
+        width: 218px;
+    }
+
+    .description .heading {
+        font-size: 22px;
+    }
+
+    .decor, .office-image, .kitchen {
+        width: 100% !important;
+    }
+
+    .footer-icons {
+        margin-top: 150px;
+    }
+
 }
