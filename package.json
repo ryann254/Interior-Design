@@ -1,0 +1,12 @@
+{
+  "name": "interiordesign",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ryann254/Interior-Design.git",
+  "author": "Ryan Njoroge <keddelyronjoz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "imagemin": "^7.0.1",
+    "imagemin-webp": "^6.0.0"
+  }
+}

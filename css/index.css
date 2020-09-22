@@ -11,6 +11,10 @@ body {
     font-style: normal;
 }
 
+.nav-bg {
+    background: #dddddd;
+}
+
 .container-fluid {
     padding: 0;
 }
